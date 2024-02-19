@@ -2,7 +2,10 @@
 ## What does it do?
 Self-evidently, is converts PDFs into CSVs.
 
-I want to add extra features to make it friendly to use.
+Found the solution here:
+https://stackoverflow.com/questions/58690461/how-to-convert-pdf-file-to-excel-file-using-python
+Now just want to add extra features to make it friendly to use.
+
 
 
 ### I'll be using existing Libraries: 
