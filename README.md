@@ -1,12 +1,18 @@
 # PDF-to-CSV
 ## What does it do?
-Self-evidently, is converts PDFs into CSVs.
+Converts PDFs into CSVs.
 
-Found the solution here:
+
+### Moreover
+#### Found the solution here:
 https://stackoverflow.com/questions/58690461/how-to-convert-pdf-file-to-excel-file-using-python
 Now just want to add extra features to make it friendly to use.
 
+#### There are a plethora of solutions:
 
+tabula-py: (the one I'm using) https://github.com/chezou/tabula-py
+
+Camelot: https://github.com/camelot-dev/camelot/tree/master https://camelot-py.readthedocs.io/en/master/
 
 ### I'll be using existing Libraries: 
 - tabula-py: Extracts tables from PDF files
